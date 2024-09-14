@@ -19,7 +19,7 @@ const Navbar = () => {
          
           
          
-          <a href="#">
+          <a href="https://www.linkedin.com/in/tarunattuluri/">
             <img src="/linkedin.png" alt="" />
           </a>
         </div>
